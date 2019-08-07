@@ -1,1 +1,1 @@
-# harpia
+# Es un framework para aplicaciones web desarrollado en JavaScript, de código abierto que se utiliza para crear y mantener aplicaciones web de una sola página. Su objetivo es aumentar las aplicaciones basadas en navegador con capacidad de Modelo Vista Controlador (MVC), en un esfuerzo para hacer que el desarrollo y las pruebas sean más fáciles. 
